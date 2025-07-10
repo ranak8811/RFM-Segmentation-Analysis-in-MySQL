@@ -208,8 +208,6 @@ The concepts and logic of RFM segmentation were adapted from multiple tutorials 
 
 ---
 
-```
-
 Let me know if you’d like to add:
 
 - Screenshots of the results (tables, charts, dashboards)
@@ -218,4 +216,4 @@ Let me know if you’d like to add:
 - Power BI/Tableau visualizations instructions
 
 I'm happy to help make it a fully polished GitHub repository.
-```
+
