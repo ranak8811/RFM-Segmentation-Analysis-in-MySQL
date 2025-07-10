@@ -33,11 +33,10 @@ This analysis demonstrates a complete workflow within MySQL, from initial **data
 
 ### 1️⃣ Create the Database
 
-````markdown
 ```sql
 CREATE DATABASE RFM_Segmentation;
 USE RFM_Segmentation;
-````
+```
 
 ### 2️⃣ Import the Data
 
