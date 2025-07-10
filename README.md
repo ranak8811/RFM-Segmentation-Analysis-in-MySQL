@@ -1,7 +1,5 @@
 # RFM-Segmentation-Analysis-in-MySQL
 
-Sure! Here's the **entire content** in proper **Markdown** syntax that you can directly paste into your `README.md` file:
-
 ---
 
 ````markdown
@@ -48,7 +46,7 @@ USE RFM_Segmentation;
 ### 2️⃣ Import the Data
 
 * Create a table named `sales` in the `RFM_Segmentation` database.
-* Import the contents of the `sales.csv` file into this table using a SQL client (e.g., MySQL Workbench, DBeaver, etc.).
+* Import the contents of the `sales.csv` file into this table using a SQL client (e.g., MySQL Workbench, DBeaver, etc.) or use Table Data Import Wizard Option.
 
 ### 3️⃣ Run the Analysis Script
 
